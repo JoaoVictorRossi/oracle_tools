@@ -8,7 +8,7 @@
 <?if:[condicaoBoolean]?>[valor/operacao]<?end if?>
 ````
 **Exemplos:**
-![Exemplo de If em linha](../Imgs/ExemploIfInLine.png)
+![Exemplo de If em linha](ExemploIfInLine.png)
 ````
 <?if:BEG_QTY >= 0 and BEG_COST_WT >= 0?><?xdoxslt:set_variable($_XDOCTX, ‘SUM_BEG_VALUE’, xdoxslt:get_variable($_XDOCTX, ‘SUM_BEG_VALUE’) + BEG_QTY*BEG_COST_WT)?><?end if?>
 ````
@@ -41,5 +41,5 @@ Utilizando condição por layout, é possível definir layouts totalmente difere
 
 **Exemplo:**
 
-![Exemplo de if layout p1](../Imgs/ExemploP1IfLayout.png)
-![Exemplo de if layout p2](../Imgs/ExemploP2IfLayout.png)
+![Exemplo de if layout p1](ExemploP1IfLayout.png)
+![Exemplo de if layout p2](ExemploP2IfLayout.png)
