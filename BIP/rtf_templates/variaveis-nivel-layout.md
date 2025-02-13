@@ -6,7 +6,7 @@ Utilizando variáveis em nível de layout é possível armazenar lógica, valore
 <?xdoxslt:set_variable($_XDOCTX, ‘[nomeVariavel]’, [valor_variavel])?>
 ````
 
-![[CriandoVariavel.png]]
+![Definindo Variável em Nível de Layout](../Imgs/CriandoVariavel.png)
 ### Utilizar valor da variável
 Para obter o valor que já esta dentro de uma variável já definida é necessário utilizar a seguinte sintaxe.
 ````
