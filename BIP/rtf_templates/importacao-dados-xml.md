@@ -31,5 +31,5 @@ Para importar dados de amostra para o desenvolvimento do template, é necessári
 ````
 
 1. Acessa a aba da extensão Oracle para MS Word: "Publisher"
-2. Clique em Sample XML![[LoadingXMLData.png]]
+2. Clique em Sample XML![Importação de Dados XML BIP](../Imgs/ImportacaoDadosXML.png)
 3. Busque e selecione o arquivo .xml contendo os dados de amostra.

@@ -40,5 +40,6 @@ Utilizando condição por layout, é possível definir layouts totalmente difere
 ````
 
 **Exemplo:**
+
 ![Exemplo de if layout p1](../Imgs/ExemploP1IfLayout.png)
 ![Exemplo de if layout p2](../Imgs/ExemploP2IfLayout.png)
